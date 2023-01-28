@@ -1,0 +1,90 @@
+
+body{
+    margin: 0px;
+    text-align: center;
+    font-family: 'merriweather';
+}
+.u{
+    position: relative;
+    background-color: #9eb5c1;
+    padding-top: 110px;
+}
+.cl-third{
+    position: absolute;
+    right: 250px;
+    top: 250px;
+
+}
+h2{
+    font-size: 2rem;
+    font-weight: normal;
+}
+p{
+    font-family: 'montserrat';
+}
+.pp{
+    width: 15%;
+    margin-top: 50px;
+}
+.skills{
+    background-color: aliceblue;
+}
+.middle-container{
+    background-color: aliceblue;
+}
+.programming{
+    width: 25%;
+    border-radius: 100%;
+    float: left;
+    margin-right: 30px;
+}
+.managemnt{
+    width: 25%;
+    border-radius: 100%;
+    float: right;
+    margin-left: 30px;
+}
+h1{
+    font-size:5.625rem;
+    font-family: 'sacramento';
+    margin: 50px auto 0;
+}
+h2,h3{
+    font-family: 'montserrat';
+}
+.skill-row{
+    width: 50%;
+    margin: 100px auto 100px;
+    text-align: left;
+    line-height: 2;
+    background-color: aliceblue;
+}
+.pro{
+    text-decoration: underline;
+}
+.cl-bottom{
+    position: absolute;
+    left: 20%;
+}
+.cl{
+    position: absolute;
+    left: 70%;
+    top: 15%;
+    
+}
+h3{
+    color: #264849;
+}
+a{
+    color: #264849;
+}
+.bottom-container{
+    background-color: #9eb5c1;
+    padding: 20px;
+}
+.footer-link{
+    padding: 20px 50px 0;
+}
+.btn{
+    line-height: 2;
+}
